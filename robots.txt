@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://gkavocat.fr/sitemap.xml
