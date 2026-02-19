@@ -1,13 +1,12 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "gk avocat",
+    "title": "gkavocat",
     "description": "",
     "home_page_url": "https://gkavocat.pages.dev",
     "feed_url": "https://gkavocat.pages.dev/feed.json",
     "user_comment": "",
-    "icon": "https://gkavocat.pages.dev/media/website/Groupe-2619.svg",
     "author": {
-        "name": "gk avocat immobilier"
+        "name": "gk avocat"
     },
     "items": [
     ]
