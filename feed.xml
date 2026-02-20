@@ -3,7 +3,7 @@
     <title>gkavocat</title>
     <link href="https://gkavocat.pages.dev/feed.xml" rel="self" />
     <link href="https://gkavocat.pages.dev" />
-    <updated>2026-02-20T00:07:44+01:00</updated>
+    <updated>2026-02-20T02:35:47+01:00</updated>
     <author>
         <name>gk avocat</name>
     </author>
@@ -17,6 +17,7 @@
         <link href="https://gkavocat.pages.dev/test/"/>
         <id>https://gkavocat.pages.dev/test/</id>
         <media:content url="https://gkavocat.pages.dev/media/posts/2/Groupe-2619.png" medium="image" />
+            <category term="Droit immobilier"/>
 
         <updated>2026-02-20T00:07:14+01:00</updated>
             <summary>
